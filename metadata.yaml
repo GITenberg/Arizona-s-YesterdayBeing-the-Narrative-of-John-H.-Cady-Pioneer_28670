@@ -1,0 +1,38 @@
+_repo: Arizona-s-YesterdayBeing-the-Narrative-of-John-H.-Cady-Pioneer_28670
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28670-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Woon, Basil
+    alias: Woon, Basil Dillon
+    birthdate: 1893
+    deathdate: 1974
+    gutenberg_agent_id: '33480'
+    url: http://www.gutenberg.org/2009/agents/33480
+    wikipedia: http://en.wikipedia.org/wiki/Basil_Woon
+  - agent_name: Cady, John H. (John Henry)
+    alias: Cady, John Henry
+    birthdate: 1846
+    deathdate: 1927
+    gutenberg_agent_id: '33479'
+    url: http://www.gutenberg.org/2009/agents/33479
+description: ''
+gutenberg_issued: '2009-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cady, John H. (John Henry), 1846-1927'
+- !lcsh 'Pioneers -- Arizona -- Biography'
+- !lcsh 'Frontier and pioneer life -- Arizona'
+- !lcc 'F786'
+title: 'Arizona''s Yesterday
+
+  Being the Narrative of John H. Cady, Pioneer'
+url: http://www.gutenberg.org/ebooks/28670
